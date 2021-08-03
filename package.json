@@ -1,0 +1,22 @@
+{
+  "name": "trip-to-mars",
+  "version": "1.0.0",
+  "description": "trip-to-mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamza-sys/trip-to-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Hamza baba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamza-sys/trip-to-mars/issues"
+  },
+  "homepage": "https://github.com/hamza-sys/trip-to-mars#readme"
+}
